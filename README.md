@@ -14,3 +14,4 @@ Para gerar o dicionário de dados execute
 make build
 ```
 
+![](20220607T203916.gif)
