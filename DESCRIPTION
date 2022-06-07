@@ -1,0 +1,9 @@
+Type: project
+Description: Data dictionary for age7
+Depends:
+    purrr,
+    jsonlite,
+    reactable,
+    rmarkdown,
+    glue,
+    markdown
